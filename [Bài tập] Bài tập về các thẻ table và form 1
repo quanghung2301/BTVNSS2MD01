@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <table border="1 ">
+      <thead>
+        <tr>
+          <th>Iteam Photo</th>
+          <th>Name</th>
+          <th>Price</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <img
+              src="https://i.pinimg.com/736x/7a/aa/a5/7aaaa545e00e8a434850e80b8910dd94.jpg"
+              alt="orange"
+              width="100"
+              height="100"
+            />
+          </td>
+          <td>orange</td>
+          <td>&#36;1ea&#46;</td>
+        </tr>
+        <tr>
+          <td>
+            <img
+              src="https://i.pinimg.com/736x/0a/30/64/0a30648bbd606df0fd0cdf669039838a.jpg"
+              alt="Bananas"
+              width="100"
+              height="100"
+            />
+          </td>
+          <td>Bananas</td>
+          <td>&#36;0.75&#47;</td>
+        </tr>
+
+        <tr>
+          <td>
+            <img
+              src="https://i.pinimg.com/736x/c2/b1/09/c2b10932d82f89d8f044556b5e0f1f53.jpg"
+              alt="Pomegranates"
+              width="100"
+              height="100"
+            />
+          </td>
+          <td>Pomegranates</td>
+          <td>3 for &#36;5</td>
+        </tr>
+        <tr>
+          <td>
+            <img
+              src="https://i.pinimg.com/736x/13/7b/31/137b31c63b78aed1eb009564b3d21b91.jpg"
+              alt="Gummy Bear"
+              width="100"
+              height="100"
+            />
+          </td>
+          <td>Gummy Bear</td>
+          <td>&#36;6 per bag</td>
+        </tr>
+        <tr>
+          <td>
+            <img
+              src="https://i.pinimg.com/736x/b3/36/41/b33641bd06c7062983b5e2e60422bf15.jpg"
+              alt="roccoli"
+              width="100"
+              height="100"
+            />
+          </td>
+          <td>Broccoli</td>
+          <td>&#36;3 a head</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
