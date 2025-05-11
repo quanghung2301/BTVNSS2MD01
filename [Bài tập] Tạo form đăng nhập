@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form action="http://google.com/server" method="post">
+      <label for="UseName">Tên đăng nhập</label>
+      <input id="UseName" type="text" name="UseName" /> <br />
+      <label for="Password">Mật Khẩu</label>
+      <input id="Password" type="password" name="Password" /> <br />
+      <button>Đăng Nhập</button>
+    </form>
+  </body>
+</html>
